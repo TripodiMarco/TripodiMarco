@@ -8,7 +8,7 @@ I've done two different courses about this role and these are my...
 ## Tech Skills 🧑‍💻​ 
 🟢 Proficient in Excel (not same thing in VBA language)  
 ​🧠 Good understanding of Structured Query Language instructions (MySQL,PostgreSQL)  
-🐍​ Good capacity in Python language  
+🐍​ Good capability in Python language  
 👨‍💻​ Basic knowledge of DAX language in Power BI  
 📈 Basic knowledge of Google Analytics such as in Google Looker Studio
 ## 🔗 You can find me on LinkedIn at  
