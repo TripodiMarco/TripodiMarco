@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile! 👋
-## About Me 🚀
+## About me 🚀
 
 
-My name is Marco and I'm currently learning about data analysis and how to excel in this field. Why? I think that data through mathematics and coding skills can tell us lots about different phenomena in real life and that's what I'm fascinated about...
+My name is Marco, I'm from Italy and I'm currently learning about data analysis and how to be an expert in this field. Why? I think that data through mathematics and coding skills can tell us lots about different phenomena in real life and that's what I'm fascinated about.
 
 I've done two different courses about this role and these are my...
 ## Tech Skills 🧑‍💻​ 
