@@ -12,4 +12,4 @@ I've done two different courses about this role and these are my...
 👨‍💻​ Basic knowledge of DAX language in Power BI  
 📈 Basic knowledge of Google Analytics such as in Google Looker Studio
 ## 🔗 You can find me on LinkedIn at  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-tripodi)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tripodi)
