@@ -10,7 +10,7 @@ I've done two different courses about this role and these are my...
 ​🧠 Good understanding of Structured Query Language instructions (MySQL, PostgreSQL)  
 🐍​ Good comprehension of Python language  
 👨‍💻​ Basic capability of DAX language in Power BI  
-📈 Basic knowledge of Google Analytics such as in Google Looker Studio
+📈 Basic knowledge of Google Looker Studio
 
 ## 🔗 You can find me on...  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tripodi)
