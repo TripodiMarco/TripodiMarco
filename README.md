@@ -6,7 +6,7 @@ My name is Marco, I'm from Italy and I'm currently learning about data analysis 
 
 I've done two different courses about this role and these are my...
 ## Tech Skills 🧑‍💻​ 
-🟢 Proficient in Excel (not same thing in VBA language)  
+🟢 Proficient in Excel (but not in VBA language, still working!)  
 ​🧠 Good understanding of Structured Query Language instructions (MySQL, PostgreSQL)  
 🐍​ Good comprehension of Python language  
 👨‍💻​ Basic capability of DAX language in Power BI  
